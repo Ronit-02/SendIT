@@ -1,1 +1,0 @@
-errat 20 bold', background="#0BA6FF", foreground="#fff
